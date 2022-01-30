@@ -30,7 +30,7 @@ layout: default
  <h1>Location:</h1>
   <p>-2.5 hours from MSP airport; </p>
   <p>-15 minutes from fleet farm outfitter, full grocery store, walmart, farmers’ market, hospital; </p>
-  <p>-6 minutes from staples grocery store, coffeeshop, dance hall where I host folk dances; </p>
+  <p>-6 minutes from staples grocery store, coffeeshop, wooden floored dance hall; </p>
   <p>-17 minutes to mountain bike trails and cross country ski trails.</p>
  
  <h1>How to use this information:</h1>
@@ -39,12 +39,7 @@ layout: default
  <p>If you’re interested, use the contact form to book retreat dates or a sabbatical cabin, or to discuss other possibilities.</p>
 
  <script src="https://www.cognitoforms.com/f/seamless.js" data-key="FGe0tsCANkGTeRWgx_VdvA" data-form="1"></script>
-  
- <h1>Cost to rent on-premise:</h1>
- <p> While I’m fleshing out the rental process, budget: </p>
-   <p>$15/person/day to cover food, lodging, and utilities for a summit gathering, </p>
-   <p>or $200/month for a sabbatical cabin (food not included unless negotiated). </p>
-   <p>I reserve the right to update these prices as I learn more.</p>
+ 
 
    <h1>Why am I doing this?</h1>
 <p>Because of my involvement in a geographically limited industry, and because of already having deep capital investments in the farm founded by my grandfather, this swamp is my settling place. But I love the culture, conversations, and friendships afforded by Boston, SF, Austin, NYC, Reno, and don’t want to be cut off from these communities because of my rurality. So, if you’re looking for a place for quiet retreats, choose mine! Because I’m invested in continuing face to face friendships even after “moving back home,” I want to provide the amenities to make vacations easy and fun.
