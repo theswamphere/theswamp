@@ -3,39 +3,52 @@ layout: page
 title: About
 permalink: /about/
 ---
+layout: default
+---
 
-If you want:
--a quiet place to host a small gathering or retreat? 
--a fiber internet-connected but otherwise unplugged location for monthlong sabbatical? 
--an “internship” for your kids to do farm work 
--a place for a vacation home with like-minded friends living nearby? 
--a place to live on several acres with same?
+<div class="home">
+ 
+ <h1> Friends, countrymen, intellectual community--</h1>
+ 
+    <h1>If you want:</h1>
+    <p>-a quiet place to host a small gathering or retreat </p>
+     <p> -a fiber internet-connected but otherwise unplugged location for monthlong sabbatical </p>
+      <p>-an “internship” for your kids to do farm work </p>
+      <p>-a place for a vacation home with like-minded friends living nearby </p>
+      <p>-a place to live on several acres with same</p>
 
-We have:
--a working fruit farm with 400+acres of forest land 
--three lakefront houses (currently occupied) and two rustic cabins (currently unoccupied) on premise 
--(currently building an additional house 2 miles off-premise, estimated ready by Sept 2022)
--ability to host a weeklong gathering of up to 20 people in one house 
--85 years of family history in the area (fishing knowledge, hunting knowledge, who to hire and where to live knowledge) 
--many amenities for teambuliding or for quality life (on prem: garden, lightning talks, squat rack, ceramics studio, hot tub, swimming, 4 canoes, windboard, catamaran, fishing boat, rifle ranges, ski and hiking trails, poetry nights and game nights) 
--wonderful people 
--very permissive zoning 
+  <h1>We have:</h1>
+  <p>-a working fruit farm with 400+acres of forest land </p>
+    <p>-three lakefront houses (currently occupied) and two rustic cabins (currently unoccupied) on premise </p>
+    <p>-(currently building an additional house for renting 2 miles off-premise, estimated ready by Sept 2022) </p>
+    <p>-ability to host a weeklong gathering of up to 20 people in one house </p>
+    <p>-85 years of family history in the area (fishing knowledge, hunting knowledge, who to hire and where to live knowledge) </p>
+    <p>-many amenities for teambuliding or for quality life (on prem: garden, lightning talks, squat rack, ceramics studio, hot tub, swimming, 4 canoes, windboard, catamaran, fishing boat, rifle ranges, ski and hiking trails, poetry nights and game nights) </p>
+    <p>-wonderful people </p>
+    <p>-very permissive zoning</p>
+ 
+ <h1>Location:</h1>
+  <p>-2.5 hours from MSP airport; </p>
+  <p>-15 minutes from fleet farm outfitter, full grocery store, walmart, farmers’ market, hospital; </p>
+  <p>-6 minutes from staples grocery store, coffeeshop, dance hall where I host folk dances; </p>
+  <p>-17 minutes to mountain bike trails and cross country ski trails.</p>
+ 
+ <h1>How to use this information:</h1>
+ <p>Share it with people who would be interested.</p>
+ <p>Share directly with individuals or a group-chat of people that you like, <i>do not post</i> broadly or publicly.</p>
+ <p>If you’re interested, use the contact form to book retreat dates or a sabbatical cabin, or to discuss other possibilities.</p>
 
-Cost:
-While I’m fleshing out the rental process, budget:
-$15/person/day to cover food, lodging, and utilities for a summit gathering, 
-or $200/month for a sabbatical cabin (food not included unless negotiated). 
-I reserve the right to update these prices as I learn more. 
+ <script src="https://www.cognitoforms.com/f/seamless.js" data-key="FGe0tsCANkGTeRWgx_VdvA" data-form="1"></script>
+  
+ <h1>Cost to rent on-premise:</h1>
+ <p> While I’m fleshing out the rental process, budget: </p>
+   <p>$15/person/day to cover food, lodging, and utilities for a summit gathering, </p>
+   <p>or $200/month for a sabbatical cabin (food not included unless negotiated). </p>
+   <p>I reserve the right to update these prices as I learn more.</p>
 
-Location: 
-2.5 hours from MSP airport; 
-15 minutes from fleet farm outfitter, full grocery store, walmart, farmers’ market, hospital; 
-6 minutes from staples grocery store, coffeeshop; 
-17 minutes to mountain bike trails and cross country ski trails.
+   <h1>Why am I doing this?</h1>
+<p>Because of my involvement in a geographically limited industry, and because of already having deep capital investments in the farm founded by my grandfather, this swamp is my settling place. But I love the culture, conversations, and friendships afforded by Boston, SF, Austin, NYC, Reno, and don’t want to be cut off from these communities because of my rurality. So, if you’re looking for a place for quiet retreats, choose mine! Because I’m invested in continuing face to face friendships even after “moving back home,” I want to provide the amenities to make vacations easy and fun.
 
-[contact form is: your name, your contact information, who passed this form to you / through whom do we know each other, checkbox if interested in booking a retreat, checkbox if interested in booking sabbatical cabin, checkbox if interested in renting the furnished house that will be bought mid-spring , freetext “or tell me what sounds interesting to you, and we’ll discuss.”)
-
-What’s in it for me? 
-Because of my involvement in a geographically limited industry, and because of already having deep capital investments in the farm founded by my grandfather, this swamp is my settling place. But I love the culture, conversations, and friendships afforded by Boston, SF, Austin, NYC, Reno, and don’t want to be cut off from these communities because of my rurality. So, if you’re looking for a place for quiet retreats, choose mine! Because I’m invested in continuing face to face friendships even after “moving back home,” I want to provide the amenities to make vacations easy and fun. 
-
-That said, I’m a private person by nature and not on twitter, so I appreciate friends sharing this with friends! With a bit of elbow grease, I hope for my swamp to become a schelling point, whether for weekends, sabbaticals, vacations, internships, or homestead development. 
+That said, I’m a private person by nature and not on twitter, so I appreciate friends sharing this with friends! With a bit of elbow grease, I hope for my swamp to become a schelling point, whether for weekends, sabbaticals, vacations, internships, or homestead development.</p>
+  </p>
+</div>
