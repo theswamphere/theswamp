@@ -6,7 +6,7 @@ permalink: /brasstacks/
 
 # Transportation Options:
 Nearest International Airports: MSP (2.5 hr), MSN (5 hr)  
-for transportation between MSP and The Swamp, in addition to standard rental car or carpool options, [NWT Express Shuttle](https://nwtexpressshuttle.com/) is reliable at $85/person.  
+For transportation between MSP and The Swamp, in addition to standard rental car or carpool options, [NWT Express Shuttle](https://nwtexpressshuttle.com/) is reliable at $85/person.  
 Nearest Regional Airports: KHYR (20m), DLH (60m), EAU (95m)  
 
 # Cost to rent on-premise:
