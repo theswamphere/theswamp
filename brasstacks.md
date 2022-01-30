@@ -3,12 +3,8 @@ layout: page
 title: Brass Tacks
 permalink: /about/
 ---
-layout: default
----
 
 <div class="home">
- 
- <h1>A few brass tacks</h1>
   
   <h1>Transportation Options:</h1>
   <p>Nearest International Airports: MSP (2.5 hr), MSN (5 hr)</p>
