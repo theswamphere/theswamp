@@ -1,6 +1,6 @@
 ---
 layout: page
-title: confer
+title: c.f.
 permalink: /cf/
 ---
 
