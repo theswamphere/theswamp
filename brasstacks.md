@@ -26,5 +26,6 @@ layout: default
   <p>-15 minutes from fleet farm outfitter, full grocery store, walmart, farmers’ market, hospital; </p>
   <p>-6 minutes from staples grocery store, coffeeshop, wooden floored dance hall; </p>
   <p>-17 minutes to mountain bike trails and cross country ski trails.</p>
-  
+ </div> 
+ 
  [NWT Express Shuttle]: https://nwtexpressshuttle.com/ 
