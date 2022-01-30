@@ -21,8 +21,7 @@ layout: default
    <p>or $200/month for a sabbatical cabin (food not included unless negotiated). </p>
    <p>I reserve the right to update these prices as I learn more. I am aiming for break-even.</p>
   
-  
-     <h1>Location:</h1>
+  <h1>Location:</h1>
   <p>-2.5 hours from MSP airport; </p>
   <p>-15 minutes from fleet farm outfitter, full grocery store, walmart, farmers’ market, hospital; </p>
   <p>-6 minutes from staples grocery store, coffeeshop, wooden floored dance hall; </p>
