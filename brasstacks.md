@@ -9,11 +9,16 @@ Nearest International Airports: MSP (2.5 hr), MSN (5 hr)
 For transportation between MSP and The Swamp, in addition to standard rental car or carpool options, [NWT Express Shuttle](https://nwtexpressshuttle.com/) is reliable at $85/person.  
 Nearest Regional Airports: KHYR (20m), DLH (60m), EAU (95m)  
 
-# Cost to rent on-premise:
+# Cost to host a retreat:
 While I'm fleshing out the rental process, budget:   
-$15/person/day to cover food, lodging, and utilities for a summit gathering,   
-or $200/month for a sabbatical cabin (food not included unless negotiated).   
-I reserve the right to update these prices as I learn more. I am aiming for break-even.  
+$15/person/day to cover food, lodging, and utilities for a summit gathering
+(I reserve the right to update these prices as I learn more. I am aiming for break-even.)
+
+# Cost to rent a rustic sabbatical cabin
+$200/month for a sabbatical cabin (food not included unless negotiated).   
+
+# Cost to rent on-premise:
+No current full-time vacancies in houses, inquire for future opportunities. 
 
 # Location:
 - 2.5 hours from MSP airport;   
