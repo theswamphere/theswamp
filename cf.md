@@ -40,9 +40,15 @@ permalink: /cf/
   
   ![sbeds](/img/sbeds.png)
   <p>2021</p>
+  
+  ![alltis](/img/alltis.png)
+  <p>retreat, 8 guests, (house with 3bed, 2 bath, 2 living rooms, ceramics studio, kitchen & dining room), 2021</p>
    
  ![frmhs](/img/frmhs.png)
-  <p>house with 8bed, 3bath, 2021</p> 
+  <p>house with 6bed, 3bath, living room, music room, kitchen & dining room, 2021</p> 
+  
+ ![tis](/img/tis.png)
+  <p>retreat, 8 guests, 2021</p>
   
  ![agronomy](/img/agronomy.png)
   <p>retreat, 25 guests, 2021</p>
