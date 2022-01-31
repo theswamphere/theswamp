@@ -19,4 +19,5 @@ I reserve the right to update these prices as I learn more. I am aiming for brea
 - 2.5 hours from MSP airport;   
 - 15 minutes from fleet farm outfitter, full grocery store, walmart, farmers' market, hospital;   
 - 6 minutes from staples grocery store, coffeeshop, wooden floored dance hall;   
-- 17 minutes to mountain bike trails and cross country ski trails.  
+- 17 minutes to mountain bike trails and cross country ski trails.
+- 0 minutes to swimming lakes
