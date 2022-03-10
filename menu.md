@@ -45,18 +45,19 @@ Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter
 
 # Desserts
 
-| offering                               | description                           | keto | vegetarian | gluten free | dairy free | season                 | serving count |
-|----------------------------------------|---------------------------------------|------|------------|-------------|------------|------------------------|---------------|
-| figgy pudding                          |                                       | no   | yes        | no          | no         | 🍂❄️         | 24            |
-| cranberry cake with caramel sauce      |                                       | no   | yes        | no          | no         | 🌱🌳🍂❄️                    | 12            |
-| seasonal fruit pie                     |                                       | no   | yes        | no          | yes        | 🌱🌳🍂 | 8             |
-| cheesecake                             |                                       | no   | yes        | no          | no         | 🌱🌳🍂❄️                    | 12            |
-| sponge cake                            | seasonal fruit and hand whipped cream | no   | yes        | no          | no         | 🌱🌳🍂 | 12            |
-| lemon blueberry bundt cake             |                                       | no   | yes        | no          | no         | 🌱🌳🍂❄️                   | 12            |
-| fig pear bundt cake                    |                                       | no   | yes        | no          | no         | 🍂❄️🌱 | 12            |
-| bread pudding                          |                                       | no   | yes        | no          | no         | 🌱🌳🍂❄️                    | 12            |
-| honey mousse with seasonal fruit puree |                                       | no   | yes        | yes         | yes        | 🌱🌳🍂❄️                    | 8             |
-| tall glass of chilled cream            |                                       | yes  | yes        | yes         | yes        | 🌱🌳🍂❄️                    | 4             |
+|offering                                   |season                                                                                                                                                          |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|figgy pudding 🥕🌾🥛                       |🍂❄️                                                                                                                                                            |
+|cranberry cake with caramel sauce 🌾🥛     |🌱🌳🍂❄️                                                                                                                                                        |
+|seasonal fruit pie 🥕🌾                    |🌱🌳🍂                                                                                                                                                          |
+|cheesecake 🌾🥛                            |🌱🌳🍂❄️                                                                                                                                                        |
+|sponge cake, seasonal fruit and hand whipped cream 🥕🌾🥛|🌱🌳🍂                                                                                                                                                          |
+|lemon blueberry bundt cake 🥕🌾🥛          |🌱🌳🍂❄️                                                                                                                                                        |
+|fig pear bundt cake 🥕🌾🥛                 |🍂❄️🌱                                                                                                                                                          |
+|bread pudding 🌾🥛                         |🌱🌳🍂❄️                                                                                                                                                        |
+|honey mousse with seasonal fruit puree 🥕  |🌱🌳🍂❄️                                                                                                                                                        |
+|tall glass of chilled cream                |🌱🌳🍂❄️                                                                                                                                                        |
+
 
 
 # Beverages
