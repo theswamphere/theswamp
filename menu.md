@@ -4,7 +4,10 @@ title: Menu
 permalink: /menu/
 ---
 
-Reducing friction for planning retreats or mini-conferences at The Swamp. Change requests and brainstorms welcome. Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter 
+Reducing friction for planning retreats or mini-conferences at The Swamp. Change requests and brainstorms welcome. 
+Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter 
+🥩 keto default 🥩🙏 keto by request 🥕 vegetarian default 🥕🙏 vegetarian by request 🥔 gluten free default 🥔🙏 gluten free by request 🥛 dairy free default 🥛🙏 dairy free by request
+🛌 available as breakfast
 
 # Entrees
 
