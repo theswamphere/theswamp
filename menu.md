@@ -34,6 +34,8 @@ Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter
 
 
 
+
+
 # Grazing Spreads
 
 |offering                                   |description                                                                                                                                                     |season  |
@@ -43,6 +45,8 @@ Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter
 |fresh cheese curds                         |white or orange cheddar, from Carr Valley or Burnett County Dairy, served fresh and squeaky. 🥛                                                                 |🌱🌳🍂❄️|
 |hazelnuts & cranberries                    |Bayfield County WI hazelnuts and Wood County WI sweetened dried cranberries. 🥕                                                                                 |🌱🌳🍂❄️|
 |jerky & cheese stick bouquet               |Wisconsin-made selection of beef jerkies and cheese sticks. 🥩🥛                                                                                                |🌱🌳🍂❄️|
+
+
 
 
 # Desserts
@@ -59,6 +63,8 @@ Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter
 |bread pudding 🌾🥛                         |🌱🌳🍂❄️                                                                                                                                                        |
 |honey mousse with seasonal fruit puree 🥕  |🌱🌳🍂❄️                                                                                                                                                        |
 |tall glass of chilled cream                |🌱🌳🍂❄️                                                                                                                                                        |
+
+
 
 
 
