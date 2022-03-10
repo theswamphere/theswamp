@@ -1,7 +1,14 @@
+---
+layout: page
+title: menu
+permalink: /menu/
+---
+
 # Menu
 Reducing friction for planning retreats or mini-conferences at The Swamp. Change requests and brainstorms welcome.
 
 # Entrees
+
 | offering                                  | description                                                                                                                                                                                                        | rolling service or synchronous | keto       | vegetarian | gluten free | dairy free | season                 | serving count         |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|------------|-------------|------------|------------------------|-----------------------|
 | raclette                                  | "Alpine cheese melted at the table, served with homemade white and rye bread, sweetened dried cranberries, hazelnuts, and cornichons. Gluten free offering served over choice of boiled potatoes or apple slices." | rolling                        | by request | default    | by request  | no         | all                    | scalable              |
