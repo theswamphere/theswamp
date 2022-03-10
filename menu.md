@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Menu
 permalink: /menu/
 ---
 
-# Menu
 Reducing friction for planning retreats or mini-conferences at The Swamp. Change requests and brainstorms welcome.
 
 # Entrees
