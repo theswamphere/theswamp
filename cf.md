@@ -31,11 +31,17 @@ permalink: /cf/
  
  ![lakesidelaptop](/img/lakesidelaptop.png)
  <p>sabbatical, 2 guests, 2020</p>
+ 
+ ![board](/img/board.png)
+ <p>retreat, 25 guests, 2021</p>
 
  ![mathset](/img/mathset.png)
  <p>sabbatical, 2 guests, 2020</p>
  
  ![waltz](/img/waltz.png)
+  <p>retreat, 25 guests, waltz lesson at offsite dance hall, 2021</p>
+  
+  ![table](/img/table.png)
   <p>retreat, 25 guests, 2021</p>
   
   ![sbeds](/img/sbeds.png)
