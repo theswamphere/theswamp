@@ -31,6 +31,7 @@ Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter
 |macaroni and cheese🛌                      |People-pleasing baked macaroni and classic colby cheese. 🌾🥛                                                                                                   |🌱🌳🍂❄️|
 |smoked turkey                              |Wisconsin raised whole turkey, applewood smoked. 🥩                                                                                                             |🌱🌳🍂❄️|
 |spatchcock sate' chicken                   |Vietnamese spiced chicken: chili, lemongrass, garlic, honey. 🥩🥕                                                                                               |🌱🌳🍂❄️|
+|buckwheat porridge🛌                       |Toasted buckwheat porridge, simmered in millk or cream with WI cranberries and WI hazelnuts. 🥕🥛                             |🌱🌳🍂❄️|
 
 
 
