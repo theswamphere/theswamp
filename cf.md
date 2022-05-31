@@ -51,7 +51,16 @@ permalink: /cf/
   <p>retreat, 8 guests, (house with 3bed, 2 bath, 2 living rooms, ceramics studio, kitchen & dining room), 2021</p>
    
  ![frmhs](/img/frmhs.png)
-  <p>house with 6bed, 3bath, living room, music room, kitchen & dining room, 2021</p> 
+  <p>house with 6bed, 3bath, living room, music room, kitchen & dining room, 2021</p>
+  
+  ![cabins](/img/rusticCabins.jpg)
+  <p>rustic cabins, 2022</p>   
+  
+  ![marginal](/img/marginal.png)
+  <p>"academic" mini-conference, 4 onsite and 3 offsite guests, 2022</p> 
+  
+  ![firepit](/img/firepit.png)
+  <p>4th of July firepit, 3 guests, 2021</p>
   
  ![tis](/img/tis.png)
   <p>retreat, 8 guests, 2021</p>
