@@ -60,7 +60,7 @@ permalink: /cf/
   <p>"academic" mini-conference, 4 onsite and 3 offsite guests, 2022</p> 
   
   ![firepit](/img/firepit.png)
-  <p>4th of July firepit, 3 guests, 2021</p>
+  <p>4th of July fish fry mise en place, 3 guests, 2021</p>
   
  ![tis](/img/tis.png)
   <p>retreat, 8 guests, 2021</p>
