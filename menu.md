@@ -34,7 +34,8 @@ Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter
 |buckwheat porridge🛌                       |Toasted buckwheat porridge, simmered in millk or cream with WI cranberries and WI hazelnuts. 🥕🥛                             |🌱🌳🍂❄️|
 
 
-
+ ![walleye](/img/walleye.png)
+ <p>walleye, brusssels sprouts, caraway marble rye</p>
 
 
 # Grazing Spreads
@@ -66,6 +67,8 @@ Key: 🌱 spring 🌳 summer 🍂 fall ❄️ winter
 |tall glass of chilled cream                |🌱🌳🍂❄️                                                                                                                                                        |
 
 
+![cocktails](/img/cocktails.JPG)
+ <p>salty bog</p>
 
 
 
