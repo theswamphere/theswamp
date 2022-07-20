@@ -18,7 +18,13 @@ $15/person/day to cover food, lodging, and utilities for a summit gathering
 $200/month for a sabbatical cabin (food not included unless negotiated).   
 
 # Cost to rent on-premise
-4 bedroom, 2 bath lakefront house available to rent at $1k/month + utilities, starting July 1. DSL internet available.
+4 bedroom, 2 bath lakefront house available to rent at $1k/month + utilities, starting Aug 1. DSL internet.
+
+# Cost to rent off-premise
+Contact and I'll scout a suitable rental for you.
+
+# Cost to buy locally
+Contact and I'll help you scout land or buildings. 
 
 # Location
 - 2.5 hours from MSP airport;   
