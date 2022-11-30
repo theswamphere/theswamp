@@ -16,7 +16,7 @@ If I know you, it's free. If we're a degree or two removed, please plan to buy o
 $100/month for a sabbatical cabin (food not included unless negotiated).   
 
 # Cost to rent on-premise
-4 bedroom, 2 bath lakefront house available to rent at $1k/month + utilities, starting Aug 1. DSL internet.
+4 bedroom, 2 bath lakefront house available to rent at $1k/month + utilities, occupied until April 2023. DSL internet.
 
 # Cost to rent off-premise
 Contact and I'll scout a suitable rental for you.
