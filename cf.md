@@ -24,7 +24,7 @@ permalink: /cf/
   <p>retreat, 25 guests, 2021</p>
   
  ![biathlon](/img/biathlon.png)
- <p>biathlon retreat, 8 to 14 guests, 2018 & 2019</p> 
+ <p>biathlon retreat, 8 to 14 guests, 2018, 2019, 2022</p> 
  
  ![mmc](/img/mmc.png)
  <p>sabbatical, 2 guests, 2020</p>
@@ -55,6 +55,9 @@ permalink: /cf/
   
   ![cabins](/img/rusticCabins.jpg)
   <p>rustic cabins, 2022</p>   
+
+  ![shack](/img/shack.png)
+  <p>wood heat, propane stove, no electric shack</p>
   
   ![marginal](/img/marginal.png)
   <p>"academic" mini-conference, 4 onsite and 3 offsite guests, 2022</p> 
