@@ -6,7 +6,7 @@ permalink: /brasstacks/
 
 # Transportation Options
 Nearest International Airports: MSP (2.5 hr), MSN (5 hr)  
-For transportation between MSP and The Swamp, in addition to standard rental car or carpool options, [NWT Express Shuttle](https://nwtexpressshuttle.com/) brings you quite close at $85/person; [Groome Transportation](https://groometransportation.com//minneapolis-st-paul-airport/eau-claire/reservations/) is less convenient. 
+For transportation between MSP and The Swamp, in addition to standard rental car or carpool options, [NWC Express Shuttle](https://nwcshuttle.com/) brings you within 2 miles at ~$85/person, they do require a phonecall; [Groome Transportation](https://groometransportation.com//minneapolis-st-paul-airport/eau-claire/reservations/) drops off in Eau Claire. 
 
 Nearest Regional Airports: KHYR (20m), DLH (60m), EAU (95m)  
 
